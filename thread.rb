@@ -1,4 +1,4 @@
-words = %w(hello world goodbye mars)
+words = %w(john lennon paul mccartney ringo starr george harrison)
 numbers = (1..10).to_a
 
 start_time = Time.new
